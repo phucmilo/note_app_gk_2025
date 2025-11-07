@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-merged_res-38:\\menu_user_menu.xml.flat",
+        "source": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-main-40:\\menu\\user_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-merged_res-38:\\layout_activity_user_product.xml.flat",
+        "source": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-main-40:\\layout\\activity_user_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-merged_res-38:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-main-40:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-merged_res-38:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-merged_res-38:\\layout_activity_admin_product.xml.flat",
+        "source": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-main-40:\\layout\\activity_admin_product.xml"
+    },
+    {
+        "merged": "com.noteapp.gk2025.app-merged_res-38:/drawable_ic_launcher.xml.flat",
+        "source": "com.noteapp.gk2025.app-main-40:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-merged_res-38:\\menu_admin_menu.xml.flat",
+        "source": "C:\\Users\\phung\\.gradle\\daemon\\8.0\\com.noteapp.gk2025.app-main-40:\\menu\\admin_menu.xml"
+    }
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="light_blue">#E3F2FD</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FFF44336</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFFEB3B</color>
+    <string name="add_product">THÊM SẢN PHẨM</string>
+    <string name="app_name">Note App GK 2025</string>
+    <string name="delete_confirm">Bạn có chắc muốn xóa sản phẩm này?</string>
+    <string name="email_hint">Email</string>
+    <string name="error_empty_price">Vui lòng nhập giá sản phẩm</string>
+    <string name="error_empty_title">Vui lòng nhập tên sản phẩm</string>
+    <string name="error_invalid_price">Giá sản phẩm phải lớn hơn 0</string>
+    <string name="gcm_defaultSenderId" translatable="false">128675237935</string>
+    <string name="google_api_key" translatable="false">AIzaSyAyAS8Q_ywwy2vAc6Rw4EVbiX6WAR6yNSc</string>
+    <string name="google_app_id" translatable="false">1:128675237935:android:1f873db53a6dff60aa76da</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAyAS8Q_ywwy2vAc6Rw4EVbiX6WAR6yNSc</string>
+    <string name="google_storage_bucket" translatable="false">note-app-gk-2025.firebasestorage.app</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="login_failed">Đăng nhập thất bại</string>
+    <string name="login_title">Đăng nhập</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="no">Không</string>
+    <string name="no_permission">Bạn không có quyền truy cập</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="product_list_title">Danh sách sản phẩm:</string>
+    <string name="product_name_hint"/>
+    <string name="product_name_label">Tên sp: %1$s</string>
+    <string name="product_price_hint"/>
+    <string name="product_price_label">Giá sp: %1$s</string>
+    <string name="product_type_hint"/>
+    <string name="product_type_label">Loại sp: %1$s</string>
+    <string name="project_id" translatable="false">note-app-gk-2025</string>
+    <string name="screen_title">Dữ liệu sản phẩm</string>
+    <string name="update_product">CẬP NHẬT SẢN PHẨM</string>
+    <string name="yes">Có</string>
+    <style name="Theme.NoteApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

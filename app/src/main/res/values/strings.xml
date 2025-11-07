@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Note App GK 2025</string>
+    <string name="screen_title">Dữ liệu sản phẩm</string>
+    <string name="product_name_hint" />
+    <string name="product_type_hint" />
+    <string name="product_price_hint" />
+    <string name="add_product">THÊM SẢN PHẨM</string>
+    <string name="update_product">CẬP NHẬT SẢN PHẨM</string>
+    <string name="product_list_title">Danh sách sản phẩm:</string>
+    <string name="product_name_label">Tên sp: %1$s</string>
+    <string name="product_price_label">Giá sp: %1$s</string>
+    <string name="product_type_label">Loại sp: %1$s</string>
+    <string name="login_title">Đăng nhập</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="delete_confirm">Bạn có chắc muốn xóa sản phẩm này?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="error_empty_title">Vui lòng nhập tên sản phẩm</string>
+    <string name="error_empty_price">Vui lòng nhập giá sản phẩm</string>
+    <string name="error_invalid_price">Giá sản phẩm phải lớn hơn 0</string>
+    <string name="login_failed">Đăng nhập thất bại</string>
+    <string name="no_permission">Bạn không có quyền truy cập</string>
+</resources>
+
